@@ -1,0 +1,262 @@
+[
+    {
+        "name": "Air",
+        "mal": 101,
+        "episode_offset": 0
+    },
+    {
+        "name": "DrStone",
+        "mal": 40852,
+        "episode_offset": 0
+    },
+    {
+        "name": "DrStone",
+        "mal": 40852,
+        "episode_offset": 0
+    },
+    {
+        "name": "Dr. Stone S2",
+        "mal": 40852,
+        "episode_offset": 0
+    },
+    {
+        "name": "Hai to Gensou no Grimgar",
+        "mal": 31859,
+        "episode_offset": 0
+    },
+    {
+        "name": "Hinamatsuri",
+        "mal": 36296,
+        "episode_offset": 0
+    },
+    {
+        "name": "Horimiya",
+        "mal": 42897,
+        "episode_offset": 0
+    },
+    {
+        "name": "JJK",
+        "mal": 40748,
+        "episode_offset": 0
+    },
+    {
+        "name": "Jujutsu Kaisen",
+        "mal": 40748,
+        "episode_offset": 0
+    },
+    {
+        "name": "JoJo's Bizarre Adventure - Golden Wind",
+        "mal": 37991,
+        "episode_offset": 0
+    },
+    {
+        "name": "JoJo's Bizarre Adventure Golden Wind",
+        "mal": 37991,
+        "episode_offset": 0
+    },
+    {
+        "name": "Kaichou wa Maid-sama",
+        "mal": 7054,
+        "episode_offset": 0
+    },
+    {
+        "name": "Kamigami no Asobi",
+        "mal": 21563,
+        "episode_offset": 0
+    },
+    {
+        "name": "Kareshi Kanojo no Jijou",
+        "mal": 145,
+        "episode_offset": 0
+    },
+    {
+        "name": "Legend of the Dragon Kings",
+        "mal": 1742,
+        "episode_offset": 0
+    },
+    {
+        "name": "Mushoku Tensei",
+        "mal": 39535,
+        "episode_offset": 0
+    },
+    {
+        "name": "Ore Monogatari!!",
+        "mal": 28297,
+        "episode_offset": 0
+    },
+    {
+        "name": "Quintuplets",
+        "mal": 39783,
+        "episode_offset": 0
+    },
+    {
+        "name": "Go-toubun no Hanayome S2",
+        "mal": 39783,
+        "episode_offset": 0
+    },
+    {
+        "name": "ReZero",
+        "mal": 42203,
+        "episode_offset": 38
+    },
+    {
+        "name": "Re Zero kara Hajimeru Isekai Seikatsu",
+        "mal": 42203,
+        "episode_offset": 38
+    },
+    {
+        "name": "Senryuu Shoujo",
+        "mal": 38787,
+        "episode_offset": 0
+    },
+    {
+        "name": "Slime",
+        "mal": 39551,
+        "episode_offset": 24
+    },
+    {
+        "name": "Tensei Shitara Slime Datta Ken",
+        "mal": 39551,
+        "episode_offset": 24
+    },
+    {
+        "name": "Shingeki no Kyojin (The Final Season)",
+        "mal": 40028,
+        "episode_offset": 59
+    },
+    {
+        "name": "SnK",
+        "mal": 40028,
+        "episode_offset": 59
+    },
+    {
+        "name": "Wonder Egg Priority",
+        "mal": 43299,
+        "episode_offset": 0
+    },
+    {
+        "name": "Zero no Tsukaima",
+        "mal": 1195,
+        "episode_offset": 0
+    },
+    {
+        "name": "Zero no Tsukaima - F",
+        "mal": 11319,
+        "episode_offset": 0
+    },
+    {
+        "name": "Zero no Tsukaima - Futatsuki no Kishi",
+        "mal": 1840,
+        "episode_offset": 0
+    },
+    {
+        "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai",
+        "mal": 37450,
+        "episode_offset": 0
+    },
+    {
+        "name": "Grisaia no Kajitsu",
+        "mal": 17729,
+        "episode_offset": 0
+    },
+    {
+        "name": "Grisaia no Rakuen",
+        "mal": 29095,
+        "episode_offset": 0
+    },
+    {
+        "name": "Nisemonogatari",
+        "mal": 11597,
+        "episode_offset": 0
+    },
+    {
+        "name": "Neon Genesis Evangelion",
+        "mal": 30,
+        "episode_offset": 0
+    },
+    {
+        "name": "Miru Tights",
+        "mal": 38935,
+        "episode_offset": 0
+    },
+    {
+        "name": "Kuzu no Honkai",
+        "mal": 32949,
+        "episode_offset": 0
+    },
+    {
+        "name": "School Days",
+        "mal": 2476,
+        "episode_offset": 0
+    },
+    {
+        "name": "Prison School + OVA",
+        "mal": 30240,
+        "episode_offset": 0
+    },
+    {
+        "name": "Jojo's Bizarre Adventure Diamond is Unbreakable",
+        "mal": 31933,
+        "episode_offset": 0
+    },
+    {
+        "name": "Sakura Trick",
+        "mal": 20047,
+        "episode_offset": 0
+    },
+    {
+        "name": "Kaze no Yojimbo",
+        "mal": 1145,
+        "episode_offset": 0
+    },
+    {
+        "name": "Kyoukai no Kanata",
+        "mal": 18153,
+        "episode_offset": 0
+    },
+    {
+       "name": "Adachi to Shimamura",
+       "mal": 39790,
+       "episode_offset": 0
+    },
+    {
+       "name": "Tsurezure Children",
+       "mal": 34902,
+       "episode_offset": 0
+    },
+    {
+       "name": "FLCL",
+       "mal": 227,
+       "episode_offset": 0
+    },
+    {
+       "name": "Shigatsu wa Kimi no Uso",
+       "mal": 23273,
+       "episode_offset": 0
+    },
+    {
+       "name": "Code Geass Lelouch of the Rebellion",
+       "mal": 1575,
+       "episode_offset": 0
+    },
+    {
+       "name": "Code Geass Lelouch of the Rebellion R2",
+       "mal": 2904,
+       "episode_offset": 0
+    },
+    {
+       "name": "Serial Experiments Lain",
+       "mal": 339,
+       "episode_offset": 0
+    },
+    {
+       "name": "Tonari no Kaibutsu-kun",
+       "mal": 14227,
+       "episode_offset": 0
+    },
+    {
+        "name": "Steins;Gate",
+        "mal": 9253,
+        "episode_offset": 0
+    }
+]
